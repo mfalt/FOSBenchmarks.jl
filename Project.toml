@@ -1,0 +1,4 @@
+name = "FOSBenchmarks"
+uuid = "2e8e3750-b235-4d0d-8df2-429268a42ce1"
+authors = ["Mattias Fält <mattiasf@control.lth.se>"]
+version = "0.1.0"
